@@ -9,5 +9,3 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AlexARNcode&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexARNcode) 
