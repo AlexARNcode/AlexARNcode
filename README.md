@@ -8,5 +8,3 @@
 -  **Learning :** React	| TypeScript
 -  **Hobbies :** Sport 🏋️ | Music (musician) 🎸 | Adventure (mountaineering) 🏔️
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=AlexARNcode&show_icons=true)
