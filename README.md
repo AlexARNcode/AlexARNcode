@@ -7,4 +7,3 @@
 -  **Working :** PHP/Symfony | Doctrine/MySQL | JavaScript | HTML/CSS
 -  **Learning :** React	| TypeScript
 -  **Hobbies :** Sport 🏋️ | Music (musician) 🎸 | Adventure (mountaineering) 🏔️
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
