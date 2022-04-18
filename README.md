@@ -16,9 +16,12 @@ and
 - SQL
 - PHPUnit (Unitary tests)
 
-## Other skills 
+## Frontend skills 
 - Vanilla Javascript
-- React (see my "KezakoPlant" repository)
+- React
+- TypeScript (learning)
+
+## Other skills
 - Docker
 - Linux
 - GitLab / GitHub
