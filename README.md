@@ -17,7 +17,14 @@
 - GitLab / GitHub
 
 ## Current projects
--  I’m currently working on **KezakoPlant** 🌱 [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
+
+I’m currently working on 
+
+- :computer: **ChatBot** (React/Symfony) : [(see repository)](https://github.com/AlexARNcode/ChatBot)
+
+and
+
+- 🍀 **KezakoPlant** (React) : [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
 
 ## Current job
 - I work as a PHP/Symfony developer for a bank.
