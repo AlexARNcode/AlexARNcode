@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">PHP/Symfony Developer</h3>
+<h4 align="center">PHP/Symfony Developer, fullstack wannabe</h4>
 
-<p align="left">
-</p>
+## Current projects
+
+I’m currently working on 
+
+- :computer: **ChatBot** (_React/Symfony_) : [(see repository)](https://github.com/AlexARNcode/ChatBot)
+
+and
+
+- 🍀 **KezakoPlant** (_React_) : [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
 
 ## Backend Skills:
 - PHP/Symfony
@@ -15,16 +22,6 @@
 - Docker
 - Linux
 - GitLab / GitHub
-
-## Current projects
-
-I’m currently working on 
-
-- :computer: **ChatBot** (React/Symfony) : [(see repository)](https://github.com/AlexARNcode/ChatBot)
-
-and
-
-- 🍀 **KezakoPlant** (React) : [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
 
 ## Current job
 - I work as a PHP/Symfony developer for a bank.
