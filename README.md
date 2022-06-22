@@ -5,7 +5,9 @@
 
 I’m currently working on 
 
-- :computer: **ChatBot** (_React/Symfony_) : [(see repository)](https://github.com/AlexARNcode/ChatBot)
+- :book: **Library** (_NodeJS API REST_) : [(see repository)](https://github.com/AlexARNcode/library),
+
+- :computer: **ChatBot** (_Front: React, Back:Symfony_) : [(see repository)](https://github.com/AlexARNcode/ChatBot),
 
 and
 
