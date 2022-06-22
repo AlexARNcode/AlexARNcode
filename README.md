@@ -7,7 +7,7 @@ I’m currently working on
 
 - :book: **Library** (_NodeJS API REST_) : [(see repository)](https://github.com/AlexARNcode/library),
 
-- :computer: **ChatBot** (_Front: React, Back:Symfony_) : [(see repository)](https://github.com/AlexARNcode/ChatBot),
+- :computer: **ChatBot** (_Front: React, Back: Symfony_) : [(see repository)](https://github.com/AlexARNcode/ChatBot),
 
 and
 
