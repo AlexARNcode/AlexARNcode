@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h4 align="center">PHP/Symfony Developer, fullstack wannabe</h4>
+<h4 align="center">FullStack Developper</h4>
 
 ## Current projects
 
