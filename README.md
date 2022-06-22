@@ -14,9 +14,9 @@ and
 - 🍀 **KezakoPlant** (_React_) : [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
 
 ## Backend Skills:
-- PHP/Symfony
-- SQL
+- PHP/Symfony/SQL
 - PHPUnit (Unitary tests)
+- NodeJS (learning)
 
 ## Frontend skills 
 - Vanilla Javascript
