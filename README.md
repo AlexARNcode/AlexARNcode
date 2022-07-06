@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">👋 Alex</h1>
 <h4 align="center">FullStack Developper</h4>
 
-## Current projects
+## Main projects
 
-I’m currently working on 
+- :book: **Library** 
 
-- :book: **Library** (_NodeJS API REST_) : [(see repository)](https://github.com/AlexARNcode/library),
+  - Frontend: React
 
-- :computer: **ChatBot** (_Front: React, Back: Symfony_) : [(see repository)](https://github.com/AlexARNcode/ChatBot),
+  - Backend: NodeJS (REST API) 
 
-and
+  - [(see repository)](https://github.com/AlexARNcode/library)
 
-- 🍀 **KezakoPlant** (_React_) : [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
+- :computer: **ChatBot** 
+  
+  - Frontend: React
+  
+  - Backend: Symfony
+
+  - [(see repository)](https://github.com/AlexARNcode/ChatBot)
+
+- 🍀 **KezakoPlant** : 
+  - Fronend: React
+  
+  - Backend: Consuming external public API (PlantNet)
+
+  - [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
 
 ## Backend Skills:
 - PHP/Symfony/SQL
 - PHPUnit (Unitary tests)
-- NodeJS (learning)
+- NodeJS
 
 ## Frontend skills 
 - Vanilla Javascript
