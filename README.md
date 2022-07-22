@@ -6,6 +6,8 @@
 - :dollar: **e-commerce** 
 
   - Frontend: VueJS
+  
+  - Backend: External API (Fakestore API)
 
   - [(see repository)](https://github.com/AlexARNcode/e-commerce)
 
