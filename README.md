@@ -3,6 +3,12 @@
 
 ## Main projects
 
+- :book: **e-commerce** 
+
+  - Frontend: VueJS
+
+  - [(see repository)](https://github.com/AlexARNcode/e-commerce)
+
 - :book: **Library** 
 
   - Frontend: React
