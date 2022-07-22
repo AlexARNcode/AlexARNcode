@@ -3,7 +3,7 @@
 
 ## Main projects
 
-- :book: **e-commerce** 
+- :dollar: **e-commerce** 
 
   - Frontend: VueJS
 
