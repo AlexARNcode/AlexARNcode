@@ -42,7 +42,7 @@
 ## Frontend skills 
 - Vanilla Javascript
 - React
-- TypeScript (learning)
+- VueJS
 
 ## Other skills
 - Docker
