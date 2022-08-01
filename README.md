@@ -36,7 +36,7 @@
   - [(see repository)](https://github.com/AlexARNcode/e-commerce-symfony)
   
 - 🍀 **KezakoPlant** : 
-  - Fronend: React
+  - Frontend: React
   
   - Backend: Consuming external public API (PlantNet)
 
