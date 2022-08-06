@@ -1,7 +1,21 @@
 <h1 align="center">👋 Alex</h1>
-<h4 align="center">FullStack Developper</h4>
+<h4 align="center">PHP/Symfony Developper</h4>
 
-## Main projects
+## Main current project
+
+- :dollar: **e-commerce-api-platform** 
+
+  - :milky_way: Frontend: Not yet, working on the backend for the moment. 
+  
+  - :wrench: Backend: PHP8 / Symfony 6 / API Platform
+  
+  - :rocket: DevOps: CI with PHPUnit tests on every push.
+
+  - [(see repository)](https://github.com/AlexARNcode/e-commerce-api-platform)    
+  
+<br/><br/>
+
+### Other projects
 
 - :dollar: **e-commerce** 
 
