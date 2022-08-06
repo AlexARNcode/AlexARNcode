@@ -1,5 +1,5 @@
 <h1 align="center">👋 Alex</h1>
-<h4 align="center">:computer: PHP/Symfony Developper</h4>
+<h4 align="center">:computer: PHP/Symfony Developer</h4>
 
 ## Main current project
 
