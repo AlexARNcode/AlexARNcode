@@ -1,7 +1,7 @@
 <h1 align="center">👋 Alex</h1>
 <h4 align="center">:computer: PHP/Symfony Developer</h4>
 
-## Main current project
+## :white_check_mark: Main current project
 
 - :dollar: **e-commerce-api-platform** 
 
