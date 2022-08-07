@@ -7,7 +7,7 @@
 
   - :milky_way: Frontend: Twig for the moment. React later. 
   
-  - :wrench: Backend: PHP8 / Symfony 6 / API Platform
+  - :wrench: Backend: PHP8 / Symfony 6 / API Platform / Messenger to do asynchronous tasks
   
   - :rocket: DevOps: CI with PHPUnit tests on every push.
 
