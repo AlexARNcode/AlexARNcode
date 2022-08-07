@@ -5,7 +5,7 @@
 
 - :dollar: **e-commerce-api-platform** 
 
-  - :milky_way: Frontend: Not yet, working on the backend for the moment. 
+  - :milky_way: Frontend: Twig for the moment. React later. 
   
   - :wrench: Backend: PHP8 / Symfony 6 / API Platform
   
