@@ -1,76 +1,17 @@
 <h1 align="center">👋 Alex</h1>
-<h4 align="center">:computer: PHP/Symfony Developer</h4>
+<h4 align="center">:computer: Laravel / Vue developer</h4>
 
 ## :white_check_mark: Main current project
 
-- :dollar: **e-commerce-api-platform** 
-
-  - :milky_way: Frontend: Twig for the moment. React later. 
-  
-  - :wrench: Backend: PHP8 / Symfony 6 / API Platform / Messenger to do asynchronous tasks
-  
-  - :rocket: DevOps: CI with PHPUnit tests on every push.
-
-  - [(see repository)](https://github.com/AlexARNcode/e-commerce-api-platform)    
-  
-<br/><br/>
-
-### Older projects
-
-- :dollar: **e-commerce** 
-
-  - Frontend: VueJS
-  
-  - Backend: External API (Fakestore API)
-
-  - [(see repository)](https://github.com/AlexARNcode/e-commerce)
-
-- :book: **Library** 
-
-  - Frontend: React
-
-  - Backend: NodeJS (REST API) 
-
-  - [(see repository)](https://github.com/AlexARNcode/library)
-
-- :computer: **ChatBot** 
-  
-  - Frontend: React
-  
-  - Backend: Symfony
-
-  - [(see repository)](https://github.com/AlexARNcode/ChatBot)
-
-- :dollar: **e-commerce-symfony** 
-
-  - Frontend: Twig
-  
-  - Backend: Symfony
-
-  - [(see repository)](https://github.com/AlexARNcode/e-commerce-symfony)
-  
-- 🍀 **KezakoPlant** : 
-  - Frontend: React
-  
-  - Backend: Consuming external public API (PlantNet)
-
-  - [(see repository)](https://github.com/AlexARNcode/kezako-plant-react)
-
 ## Backend Skills:
-- PHP/Symfony/SQL
-- PHPUnit (Unitary tests)
-- NodeJS
+- PHP
+- Laravel
 
 ## Frontend skills 
-- Vanilla Javascript
-- React
-- VueJS
+- Vue JS
 
 ## Other skills
 - Docker
 - Linux
 - GitLab / GitHub
-
-## Current job
-- I work as a PHP/Symfony developer for a bank.
 
