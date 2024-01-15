@@ -5,7 +5,8 @@
 - PHP
 - Laravel
 
-## Frontend skills 
+## Frontend skills
+- Javascript
 - Vue JS
 
 ## Other skills
