@@ -14,3 +14,4 @@
 - Linux
 - GitLab / GitHub
 
+There is no recent personal project here, since I'm working for a company.
