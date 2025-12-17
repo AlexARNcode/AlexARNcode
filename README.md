@@ -1,17 +1,21 @@
-<h1 align="center">👋 Alex</h1>
-<h4 align="center">:computer: Laravel / Vue developer</h4>
+<h1 align="center">👋 Hi, I'm Alex</h1>
+<h3 align="center">:computer: Laravel & Vue Developer</h3>
 
-## Backend Skills:
-- PHP
-- Laravel
-- MySQL, PostgreSQL, MariaDB, ElasticSearch
+---
 
-## Frontend skills
-- Javascript
-- TypeScript
-- Vue JS
+## 💻 Tech Stack
 
-## Other skills
-- Clean Architecture / Hexagonal Architecture
-- Docker
+### Backend
+- **Languages:** PHP  
+- **Frameworks:** Laravel  
+- **Databases:** MySQL, PostgreSQL, MariaDB, Elasticsearch  
 
+### Frontend
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks/Libraries:** Vue.js  
+
+### Architecture & Tools
+- Clean Architecture / Hexagonal Architecture  
+- Docker  
+
+---
