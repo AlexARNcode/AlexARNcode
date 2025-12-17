@@ -4,14 +4,14 @@
 ## Backend Skills:
 - PHP
 - Laravel
+- MySQL, PostgreSQL, MariaDB, ElasticSearch
 
 ## Frontend skills
 - Javascript
+- TypeScript
 - Vue JS
 
 ## Other skills
+- Clean Architecture / Hexagonal Architecture
 - Docker
-- Linux
-- GitLab / GitHub
 
-There is no recent personal project here, since I'm working for a company.
